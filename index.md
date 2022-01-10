@@ -5,6 +5,9 @@ Table of contents
 - [How to record guitar on your home computer](#how-to-record-guitar-on-your-home-computer)
   - [**1. Introduction**](#1-introduction)
   - [**2. Necessary equipment**](#2-necessary-equipment)
+    - [Hardware list:](#hardware-list)
+    - [Software list:](#software-list)
+      - [Things to consider:](#things-to-consider)
   - [**3. How to connect**](#3-how-to-connect)
   - [**4. How to record**](#4-how-to-record)
   - [**5. Glossary**](#5-glossary)
@@ -24,7 +27,7 @@ Rest assured, using this method doesn’t mean giving up on functionality.  The 
 
 ## **2. Necessary equipment**
 
-Hardware list:
+### Hardware list:
 
 - an electric guitar/bass
 
@@ -43,10 +46,12 @@ And remember to measure correct cable lengths to suit your needs!
 
 - any guitar stompboxes you wish to use. You can use them without the guitar amp, plugged straight into the audio interface. Remember to prepare an extra guitar cable and power source for each!
 
-Software list:
+### Software list:
 
 - a VST plug-in. It will allow you to model the guitar sounds in the way you want. Numerous free and paid software options are available on the market.
 - a DAW workstation (to record the guitar with your VST pug-ins embedded and to arrange your guitar tracks). You can pick from a great choice of industry standards, but be warned - they are pricey!
+
+#### Things to consider:
 
 By design, this guide gives only a general overview of the type of software solutions available. Modeling sound and recording guitar tracks on a computer is a vast and complicated topic that deserves a separate in-depth insight. Generally, what you should bear in mind when choosing your software platform is:
 
