@@ -46,7 +46,7 @@ To simplify the process, the instruction focuses exclusively on recording instru
     - studio monitors use cables with 6.3mm Jack plugs
     - proprietary USB cables to connect your interface to computer should come with the device 
   
-> Remember to measure correct cable lengths to suit your needs!
+    > Remember to measure correct cable lengths to suit your needs!
 
 6. **Optional:** Any guitar **stompboxes** you wish to use. You can use them without the guitar amp, plugged straight into the audio interface. Prepare an extra guitar cable and power source for each.
 
