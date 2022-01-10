@@ -35,7 +35,10 @@ Rest assured, using this method doesn’t mean giving up on functionality.  The 
 
 - audio interface with 6.3mm Jack socket for guitar recording
 
-- monitor speakers. They don’t have to be professional studio monitors. You can try using your home audio, preferably a stereo system. IMPORTANT: it must have a line input, which is usually labelled AUX in or Line in at the back of the unit. WARNING: Certain speaker types/audio setups might not be suitable - they can give inaccurate sound reference or get damaged - always control the output signal level and start from low volume to protect your audio equipment.
+- monitor speakers. They don’t have to be professional studio monitors. You can try using your home audio, preferably a stereo system. 
+  > IMPORTANT: Audio reference setup that you choose must have a line input, which is usually labelled AUX in or Line in at the back of the unit. 
+
+  > WARNING: Certain speaker types/audio setups might not be suitable - they can give inaccurate sound reference or get damaged - always control the output signal level and start from low volume to protect your audio equipment.
 
 - cords and cables with proper plugs. It depends on your audio setup, but generally:
     • guitar cables have 6.3mm Jack plugs
@@ -97,6 +100,8 @@ On a computer:
 **Audio out** - the output for the signal path in audio devices.
 
 **Audio reference setup** - any speaker system chosen for presenting the sonic output of your guitar recording setup. Typically, it would be a stereo system with two passive speaker sets and amplification, essentially - your home audio. Alternatively, a more professional option would be active studio monitors designed for record production. 
+
+**AUX** - an auxiliary port is a type of standard connector that accommodates audio signals on audio devices
 
 **DAW workstation** - or digital audio workstation. It’s an electronic device or software used for recording, editing and producing audio files. DAWs come in a wide variety of configurations from a single software program on a laptop, to an integrated stand-alone unit. Regardless of configuration, modern DAWs have a central interface that allows the user to alter and mix multiple recordings and tracks into a final produced piece.
 
