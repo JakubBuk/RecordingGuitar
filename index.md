@@ -50,11 +50,11 @@ Software list:
 
 By design, this guide gives only a general overview of the type of software solutions available. Modeling sound and recording guitar tracks on a computer is a vast and complicated topic that deserves a separate in-depth insight. Generally, what you should bear in mind when choosing your software platform is:
 
-    • ease-of-use – music recording software, especially DAWs, tend to be complicated, even intimidating at first. Check free demo versions to see which works for you before paying full price.
+- ease-of-use – music recording software, especially DAWs, tend to be complicated, even intimidating at first. Check free demo versions to see which works for you before paying full price.
 
-    • compatibility between the VST and DAW you choose – some DAWs don’t support third party VST plug-ins, or you have to pay extra for the functionality. 64-bit vs 32-bit compatibility issues also happen.
+- compatibility between the VST and DAW you choose – some DAWs don’t support third party VST plug-ins, or you have to pay extra for the functionality. 64-bit vs 32-bit compatibility issues also happen.
 
-    • more complex DAWs enable you to use multiple VST plug-ins, provide advanced mixing options and process automation functions. It’s a whole universe to explore with a plethora of options, chances are you won’t need many of them – think and decide what really suits your purpose.
+-  more complex DAWs enable you to use multiple VST plug-ins, provide advanced mixing options and process automation functions. It’s a whole universe to explore with a plethora of options, chances are you won’t need many of them – think and decide what really suits your purpose.
 
 In the past, audio latency was an issue but on modern computer configurations it shouldn’t be a problem anymore for some years now.
 
@@ -72,11 +72,11 @@ Additionally, apart from just recording, with this kind of setup you can also pu
 
 On a computer:
 
-    1. Open your VST, tweak in the guitar sound you want.  Save the preset.
-    2. Open your DAW, adjust the recording options, embed the VST plug-in into the track. Hit record, play to your heart’s content. Stop, save project.
-    3. Record more tracks, you may wish to loop and playback some of them to jam along or lay a solo. 
-    4. Edit to suit your purposes. 
-    5. Have fun!
+1. Open your VST, tweak in the guitar sound you want.  Save the preset.
+2. Open your DAW, adjust the recording options, embed the VST plug-in into the track. Hit record, play to your heart’s content. Stop, save project.
+3. Record more tracks, you may wish to loop and playback some of them to jam along or lay a solo. 
+4. Edit to suit your purposes. 
+5. Have fun!
 
 
 ## **5. Glossary**
