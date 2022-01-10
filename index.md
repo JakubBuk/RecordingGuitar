@@ -17,11 +17,11 @@ Table of contents
 
 This  guide aims to provide general advice for musicians who want to record guitar or bass tracks on their computers without the need for professional recording studio.
 
-It presents an easy way of setting up your gear so you can have it ready for recording ad hoc, whenever it’s  to catch a quick idea, sketch a song, or save a riff.
+*It presents an easy way of setting up your gear so you can have it ready for recording ad hoc, whenever it’s  to catch a quick idea, sketch a song, or save a riff.*
 
 To simplify the process, the instruction focuses exclusively on recording instruments directly to computer, without the need for a guitar/bass amplifier. Thus, microphone setup for recording is not discussed here.
 
-Rest assured, using this method doesn’t mean giving up on functionality.  The idea is to enable you to record, mix and produce instrument tracks, to what extent - depends largely on the software you choose for it.
+*Rest assured, using this method doesn’t mean giving up on functionality.  The idea is to enable you to record, mix and produce instrument tracks, to what extent - depends largely on the software you choose for it.*
 
 > The example provided in this guide is based on Windows 10 platform, but similar steps apply to iOS and other operating systems.
 
@@ -29,34 +29,34 @@ Rest assured, using this method doesn’t mean giving up on functionality.  The 
 
 ### Hardware list:
 
-- an electric guitar/bass
+1. **Electric guitar/bass**
 
-- a computer (laptop or desktop) with USB connectivity
+2. **Computer** (laptop or desktop) with USB connectivity
 
-- audio interface with 6.3mm Jack socket for guitar recording
+3. **Audio interface** with 6.3mm Jack socket for guitar recording
 
-- monitor speakers. They don’t have to be professional studio monitors. You can try using your home audio, preferably a stereo system. 
-  > IMPORTANT: Audio reference setup that you choose must have a line input, which is usually labelled AUX or Line in at the back of the unit. 
+4. **Monitor speakers**. They don’t have to be professional **studio monitors**. You can try using your home audio, preferably a stereo system. 
+   > IMPORTANT: **Audio reference setup** that you choose must have a line input, which is usually labelled **AUX** or **Line in** at the back of the unit. 
 
-  > WARNING: Certain speaker types/audio setups might not be suitable - they can give inaccurate sound reference or get damaged - always control the output signal level and start from low volume to protect your audio equipment.
+   > WARNING: Certain speaker types/audio setups might not be suitable - they can give inaccurate sound reference or get damaged - always control the output signal level and start from low volume to protect your audio equipment.
 
-- cords and cables with proper plugs. It depends on your audio setup, but generally:
-    • guitar cables have 6.3mm Jack plugs
-    • cables connecting your computer or audio interface with studio monitors/audio reference system can have a single or double 6.3mm Jack or 3.5mm mini Jack plugs on the computer end, and single or double RCA/chinch plugs on the other end - depending on the sockets available in the audio unit. 
-    • studio monitors use cables with 6.3mm Jack plugs
-    • proprietary USB cables to connect your interface to computer should come with the device
-And remember to measure correct cable lengths to suit your needs!
+5. **Cords and cables with proper plugs**. It depends on your audio setup, but generally:
+    - guitar cables have 6.3mm Jack plugs
+    - cables connecting your computer or audio interface with studio monitors/audio reference system can have a single or double 6.3mm Jack or 3.5mm mini Jack plugs on the computer end, and single or double RCA/chinch plugs on the other end - depending on the sockets available in the audio unit. 
+    - studio monitors use cables with 6.3mm Jack plugs
+    - proprietary USB cables to connect your interface to computer should come with the device 
+      > Remember to measure correct cable lengths to suit your needs!
 
-- any guitar stompboxes you wish to use. You can use them without the guitar amp, plugged straight into the audio interface. Remember to prepare an extra guitar cable and power source for each!
+6. **Optional:** Any guitar **stompboxes** you wish to use. You can use them without the guitar amp, plugged straight into the audio interface. Prepare an extra guitar cable and power source for each.
 
 ### Software list:
 
-- a VST plug-in. It will allow you to model the guitar sounds in the way you want. Numerous free and paid software options are available on the market.
-- a DAW workstation (to record the guitar with your VST pug-ins embedded and to arrange your guitar tracks). You can pick from a great choice of industry standards, but be warned - they are pricey!
+1. **VST plug-in**. It will allow you to model the guitar sounds in the way you want. Numerous free and paid software options are available on the market.
+2. **DAW workstation** (to record the guitar with your VST pug-ins embedded and to arrange your guitar tracks). You can pick from a great choice of industry standards, but be warned - they are pricey!
 
 #### Things to consider:
 
-By design, this guide gives only a general overview of the type of software solutions available. Modeling sound and recording guitar tracks on a computer is a vast and complicated topic that deserves a separate in-depth insight. Generally, what you should bear in mind when choosing your software platform is:
+*By design, this guide gives only a general overview of the type of software solutions available. Modeling sound and recording guitar tracks on a computer is a vast and complicated topic that deserves a separate in-depth insight. Generally, what you should bear in mind when choosing your software platform is:*
 
 - ease-of-use – music recording software, especially DAWs, tend to be complicated, even intimidating at first. Check free demo versions to see which works for you before paying full price.
 
@@ -72,9 +72,9 @@ Guitar into audio interface into computer. Optionally, you can add stompboxes in
 
 Audio interface into studio monitors/audio reference system. Don’t forget to switch the power on! Check the volume levels on your guitar, audio interface and audio playback equipment before starting. Start with low volume on the playback.
 
-If you connected everything correctly, you should be able to hear your instrument live through your reference speakers. If you happen to use your home audio equipment for the reference sound and worry about destroying it, you should be fine. Essentially, the audio interface is a sound card that modifies the instrument signal and makes it appropriate for the speakers. Yet still, it is advisable to start from a lower volume level, especially if there are any guitar effects applied to the signal. This is even more true regarding bass, as the resonances created by this instrument are sometimes hard to predict. So, when it comes to laying these low notes on your track - proceed with caution! 
+If you connected everything correctly, you should be able to hear your instrument live through your reference speakers. If you happen to use your home audio equipment for the reference sound and worry about destroying it, you should be fine. Essentially, the audio interface is a sound card that modifies the instrument signal and makes it appropriate for the speakers. **Yet still, it is advisable to start from a lower volume level, especially if there are any guitar effects applied to the signal. This is even more true regarding bass**, as the resonances created by this instrument are sometimes hard to predict. So, when it comes to laying these low notes on your track - proceed with caution! 
 
-Additionally, apart from just recording, with this kind of setup you can also put on a playback track together with your guitar signal and jam along, be it a song you wish to learn or just for fun.
+*Additionally, apart from just recording, with this kind of setup you can also put on a playback track together with your guitar signal and jam along, be it a song you wish to learn or just for fun.*
 
 ## **4. How to record**
 
@@ -117,7 +117,7 @@ On a computer:
 
 **mini Jack plug** - 3.5mm connector that is commonly used in home audio devices and headphones.
 
-**Studio monitors** - or monitor speakers. They are specifically designed for professional audio production to give the most accurate reproduction of the source audio tone. Compared to home audio speakers, the crucial technical difference is that they are active/powered speakers, with an amplifier built into the speaker cabinet. They are designed to cope with higher volumes and sound dynamics involved in the studio production.
+**Studio monitors** - Speaker sets specifically designed for professional audio production and meant to give the most accurate reproduction of the source audio tone. Compared to home audio speakers, the crucial technical difference is that they are active/powered speakers, with an amplifier enclosed in the speaker cabinet. They are built to cope with higher volumes and sound dynamics involved in the studio production.
 
 **RCA plug** - or cinch. It's a connector commonly used to carry audio and video signals.
 
