@@ -57,7 +57,7 @@ Rest assured, using this method doesn’t mean giving up on functionality.  The 
 
 #### Things to consider:
 
-*By design, this guide gives only a general overview of the type of software solutions available. Modeling sound and recording guitar tracks on a computer is a vast and complicated topic that deserves a separate in-depth insight. Generally, what you should bear in mind when choosing your software platform is:*
+By design, this guide gives only a general overview of the type of software solutions available. Modeling sound and recording guitar tracks on a computer is a vast and complicated topic that deserves a separate in-depth insight. Generally, what you should bear in mind when choosing your software platform is:
 
 - ease-of-use – music recording software, especially DAWs, tend to be complicated, even intimidating at first. Check free demo versions to see which works for you before paying full price.
 
@@ -75,7 +75,7 @@ In the past, audio latency was an issue but on modern computer configurations it
 
 If you connected everything correctly, you should be able to hear your instrument live through your reference speakers. If you happen to use your home audio equipment for the reference sound and worry about destroying it, you should be fine. Essentially, the audio interface is a sound card that modifies the instrument signal and makes it appropriate for the speakers. **Yet still, it is advisable to start from a lower volume level, especially if there are any guitar effects applied to the signal. This is even more true regarding bass**, as the resonances created by this instrument are sometimes hard to predict. So, when it comes to laying these low notes on your track - proceed with caution! 
 
-*Additionally, apart from just recording, with this kind of setup you can also put on a playback track together with your guitar signal and jam along, be it a song you wish to learn or just for fun.*
+Additionally, apart from just recording, with this kind of setup you can also put on a playback track together with your guitar signal and jam along, be it a song you wish to learn or just for fun.
 
 ## **4. How to record**
 
