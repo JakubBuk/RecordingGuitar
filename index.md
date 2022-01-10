@@ -35,7 +35,7 @@ Rest assured, using this method doesn’t mean giving up on functionality.  The 
 
 3. **Audio interface** with 6.3mm Jack socket for guitar recording
 
-4. **Monitor speakers**. They don’t have to be professional **studio monitors**. You can try using your home audio, preferably a stereo system. 
+4. **Monitor speakers**. They don’t have to be professional **studio monitors**. You can try using your home audio, preferably a stereo system.
    > IMPORTANT: **Audio reference setup** that you choose must have a line input, which is usually labelled **AUX** or **Line in** at the back of the unit. 
 
    > WARNING: Certain speaker types/audio setups might not be suitable - they can give inaccurate sound reference or get damaged - always control the output signal level and start from low volume to protect your audio equipment.
