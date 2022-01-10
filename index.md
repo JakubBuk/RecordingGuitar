@@ -69,11 +69,22 @@ In the past, audio latency was an issue but on modern computer configurations it
 
 ## **3. How to connect**
 
-**Guitar into audio interface into computer.** Optionally, you can add stompboxes into the signal chain, between guitar and the interface. Signal deterioration is a slight concern, but you should be fine adding as many units as you would normally use in other guitar playing scenarios.
+The signal chain is as follows:  
+1. **Guitar is plugged into audio interface**   
+2. **Audio interface is plugged into computer.**   
+3. **Audio interface is connected into studio monitors/audio reference system.** 
+   
+   Don’t forget to switch the power on! Check the volume levels on your guitar, audio interface and audio playback equipment before starting. Start with low volume on the playback.
 
-**Audio interface into studio monitors/audio reference system.** Don’t forget to switch the power on! Check the volume levels on your guitar, audio interface and audio playback equipment before starting. Start with low volume on the playback.
+   Optionally, **you can add stompboxes into the signal chain, between guitar and the interface.** Signal deterioration is a slight concern, but you should be fine adding as many units as you would normally use in other guitar playing scenarios.
 
-If you connected everything correctly, you should be able to hear your instrument live through your reference speakers. If you happen to use your home audio equipment for the reference sound and worry about destroying it, you should be fine. Essentially, the audio interface is a sound card that modifies the instrument signal and makes it appropriate for the speakers. **Yet still, it is advisable to start from a lower volume level, especially if there are any guitar effects applied to the signal. This is even more true regarding bass**, as the resonances created by this instrument are sometimes hard to predict. So, when it comes to laying these low notes on your track - proceed with caution! 
+If you connected everything correctly, you should be able to hear your instrument live through your reference speakers. 
+
+If you happen to use your home audio equipment for the reference sound and worry about destroying it, you should be fine. Essentially, the audio interface is a sound card that modifies the instrument signal and makes it appropriate for the speakers. 
+
+**Still, it is advisable to start from a lower volume level, especially if there are any guitar effects applied to the signal.** 
+
+**This is even more true regarding bass**, as the resonances created by this instrument are sometimes hard to predict. So, when it comes to laying these low notes on your track - proceed with caution! 
 
 Additionally, apart from just recording, with this kind of setup you can also put on a playback track together with your guitar signal and jam along, be it a song you wish to learn or just for fun.
 
@@ -81,10 +92,10 @@ Additionally, apart from just recording, with this kind of setup you can also pu
 
 On a computer:
 
-1. Open your VST, tweak in the guitar sound you want.  Save the preset.
-2. Open your DAW, adjust the recording options, embed the VST plug-in into the track. Hit record, play to your heart’s content. Stop, save project.
+1. Open your VST, set the guitar sound you want. Save the preset.
+2. Open your DAW, adjust the recording options, embed the VST plug-in into the track. Hit record, play to your heart’s content. Stop, save the project.
 3. Record more tracks, you may wish to loop and playback some of them to jam along or lay a solo. 
-4. Edit to suit your purposes. 
+4. Edit tracks to suit your purposes. 
 5. Have fun!
 
 
@@ -107,6 +118,8 @@ On a computer:
 **DAW workstation** - or digital audio workstation. It’s an electronic device or software used for recording, editing and producing audio files. DAWs come in a wide variety of configurations from a single software program on a laptop, to an integrated stand-alone unit. Regardless of configuration, modern DAWs have a central interface that allows the user to alter and mix multiple recordings and tracks into a final produced piece.
 
 **Effect modeling** - the process of emulating a guitar effect pedal and applying it to the signal in order to recreate the sound of a specific guitar effect model. Done by digital sound processing and used in guitar software. It allows to create an effects chain, connecting multiple emulated effect devices in various configurations.
+
+**Embedding the VST plug-in in DAW** - it essentially means connecting the track you record in DAW with a certain VST plug-in you want to use.
 
 **Guitar effect pedals** - also known as stompboxes are foot-operated boxes that provide sound effects and tone shaping for electric guitars
 
