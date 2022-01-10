@@ -70,7 +70,7 @@ In the past, audio latency was an issue but on modern computer configurations it
 ## **3. How to connect**
 
 The signal chain is as follows:  
-1. **Guitar is plugged into audio interface**   
+1. **Guitar is plugged into audio interface.**   
 2. **Audio interface is plugged into computer.**   
 3. **Audio interface is connected into studio monitors/audio reference system.** 
    
@@ -82,7 +82,7 @@ If you connected everything correctly, you should be able to hear your instrumen
 
 If you happen to use your home audio equipment for the reference sound and worry about destroying it, you should be fine. Essentially, the audio interface is a sound card that modifies the instrument signal and makes it appropriate for the speakers. 
 
-**Still, it is advisable to start from a lower volume level, especially if there are any guitar effects applied to the signal.** 
+**Still, it is advisable to start from a lower volume level, especially if there are some guitar effects applied to the signal.** 
 
 **This is even more true regarding bass**, as the resonances created by this instrument are sometimes hard to predict. So, when it comes to laying these low notes on your track - proceed with caution! 
 
