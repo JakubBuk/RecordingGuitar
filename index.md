@@ -17,11 +17,11 @@ Table of contents
 
 This  guide aims to provide general advice for musicians who want to record guitar or bass tracks on their computers without the need for professional recording studio.
 
-*It presents an easy way of setting up your gear so you can have it ready for recording ad hoc, whenever it’s  to catch a quick idea, sketch a song, or save a riff.*
+It presents an easy way of setting up your gear so you can have it ready for recording ad hoc, whenever it’s  to catch a quick idea, sketch a song, or save a riff.
 
 To simplify the process, the instruction focuses exclusively on recording instruments directly to computer, without the need for a guitar/bass amplifier. Thus, microphone setup for recording is not discussed here.
 
-*Rest assured, using this method doesn’t mean giving up on functionality.  The idea is to enable you to record, mix and produce instrument tracks, to what extent - depends largely on the software you choose for it.*
+Rest assured, using this method doesn’t mean giving up on functionality.  The idea is to enable you to record, mix and produce instrument tracks, to what extent - depends largely on the software you choose for it.
 
 > The example provided in this guide is based on Windows 10 platform, but similar steps apply to iOS and other operating systems.
 
@@ -69,9 +69,9 @@ In the past, audio latency was an issue but on modern computer configurations it
 
 ## **3. How to connect**
 
-Guitar into audio interface into computer. Optionally, you can add stompboxes into the signal chain, between guitar and the interface. Signal deterioration is a slight concern, but you should be fine adding as many units as you would normally use in other guitar playing scenarios.
+**Guitar into audio interface into computer.** Optionally, you can add stompboxes into the signal chain, between guitar and the interface. Signal deterioration is a slight concern, but you should be fine adding as many units as you would normally use in other guitar playing scenarios.
 
-Audio interface into studio monitors/audio reference system. Don’t forget to switch the power on! Check the volume levels on your guitar, audio interface and audio playback equipment before starting. Start with low volume on the playback.
+**Audio interface into studio monitors/audio reference system.** Don’t forget to switch the power on! Check the volume levels on your guitar, audio interface and audio playback equipment before starting. Start with low volume on the playback.
 
 If you connected everything correctly, you should be able to hear your instrument live through your reference speakers. If you happen to use your home audio equipment for the reference sound and worry about destroying it, you should be fine. Essentially, the audio interface is a sound card that modifies the instrument signal and makes it appropriate for the speakers. **Yet still, it is advisable to start from a lower volume level, especially if there are any guitar effects applied to the signal. This is even more true regarding bass**, as the resonances created by this instrument are sometimes hard to predict. So, when it comes to laying these low notes on your track - proceed with caution! 
 
