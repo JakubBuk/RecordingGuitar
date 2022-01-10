@@ -137,7 +137,7 @@ On a computer:
 
 **Signal path** - the route a particular signal takes through a chain of electronic components on the way to its destination. In audio, it’s usually about connecting different pieces of equipment together and routing signals through them.
 
-**Stompbox** - also known as guitar effect pedals are foot operated boxes that provide sound effects and tone shaping for electric guitars.
+**Stompboxes** - also known as guitar effect pedals are foot operated boxes that provide sound effects and tone shaping for electric guitars.
 
 **USB 2.0/3.x (type A)** - common connector standard for computer devices.
 
