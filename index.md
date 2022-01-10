@@ -101,7 +101,7 @@ On a computer:
 
 ## **5. Glossary**
 
-**Amp modeling** - the process of emulating a physical guitar amplifier and applying it to the signal in order to recreate the sound of a specific amplifier model. Done by digital sound processing and used in guitar software.
+**Amp modeling** - the process of emulating a physical guitar amplifier and applying it to the signal in order to recreate the sound of a specific amplifier model. Done by digital signal processing and used in guitar software.
 
 **Audio in** - the input for the signal path in audio devices.
 
@@ -117,7 +117,7 @@ On a computer:
 
 **DAW workstation** - or digital audio workstation. It’s an electronic device or software used for recording, editing and producing audio files. DAWs come in a wide variety of configurations from a single software program on a laptop, to an integrated stand-alone unit. Regardless of configuration, modern DAWs have a central interface that allows the user to alter and mix multiple recordings and tracks into a final produced piece.
 
-**Effect modeling** - the process of emulating a guitar effect pedal and applying it to the signal in order to recreate the sound of a specific guitar effect model. Done by digital sound processing and used in guitar software. It allows to create an effects chain, connecting multiple emulated effect devices in various configurations.
+**Effect modeling** - the process of emulating a guitar effect pedal and applying it to the signal in order to recreate the sound of a specific guitar effect model. Done by digital signal processing and used in guitar software. It allows to create an effects chain, connecting multiple emulated effect devices in various configurations.
 
 **Embedding the VST plug-in in DAW** - it essentially means connecting the track you record in DAW with a certain VST plug-in you want to use.
 
