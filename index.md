@@ -1,8 +1,8 @@
-# How to record guitar on your home computer
+# How to record electric guitar on your home computer
 
 Table of contents
 
-- [How to record guitar on your home computer](#how-to-record-guitar-on-your-home-computer)
+- [How to record electric guitar on your home computer](#how-to-record-electric-guitar-on-your-home-computer)
   - [**1. Introduction**](#1-introduction)
   - [**2. Necessary equipment**](#2-necessary-equipment)
     - [Hardware list:](#hardware-list)
