@@ -1,2 +1,2 @@
 # RecordingGuitar
-How to record guitar on a home computer
+How to record electric guitar on a home computer
